@@ -4,8 +4,6 @@
 
 ## Using npm
 
-
-
 1) ```npm install```
 
 
@@ -13,8 +11,6 @@
 
 
 ## Or using yarn
-
-
 
 1) ```npm install --global yarn```
 
